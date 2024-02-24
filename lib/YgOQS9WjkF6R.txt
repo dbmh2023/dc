@@ -1,0 +1,60 @@
+{
+    "urls": [
+        {
+            "url":"http://154.3.2.66:8889/down/BAKg7N5hiyU9.txt",
+            "name":"😘星星影视主路线|（满天星悦来开心）"
+        },
+        {
+            "url":"http://154.3.2.66:8889/down/jTtX6fos6Fpg.txt",
+            "name":"😘星星影视备用路线|（满天星悦来开心）"
+        },
+        {
+            "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name":"😘南风路线"
+        }, 
+        {
+            "url":"https://szyyds.cn/tv/x.json",
+            "name":"😘小马影视路线"
+        }, 
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🎗小米〔多条线路〕"
+        },   
+        {
+            "url":"http://154.3.2.193:8889/down/iLVFw1kO0rPJ.json",
+            "name":"🍥emo盒子路线"
+        }, 
+        {
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name":"🍥夜猫子影视路线"
+        }, 
+        {
+            "url": "https://duo.codered.cloud/fast.json",
+            "name": "🏡应用多多家庭版路线"
+        },
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "🍚饭太硬路线"
+        }, 
+        {
+            "url": "https://gitee.com/lekanbox/App/raw/master/ali.json",
+            "name": "🧿阿里备用1专线路线"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/al.txt",
+            "name": "🧿阿里备用2专线路线"
+        },
+        {
+            "url": "http://肥猫.live/",
+            "name": "🚀肥猫1路线"
+        },
+        {
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "name": "🚀肥猫2路线"
+        },
+        {
+            "url": "https://la.kstore.space/download/2883/0110.txt",
+            "name": "🚀蚂蚁讨论路线"
+        }
+    ]
+}
