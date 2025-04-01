@@ -2,91 +2,108 @@
   "name": "影视仓线路合集",
   "author": "自定义",
   "version": "1.0",
-  "resources": [
+  "repositories": [
     {
+      "key": "xiaomi",
       "name": "🚀小米线路",
-      "type": 0,
-      "api": "https://mpanso.me/DEMO.json"
+      "type": "tvbox",
+      "url": "https://mpanso.me/DEMO.json"
     },
     {
+      "key": "wangxiaoer",
       "name": "🚀王小二🚀",
-      "type": 0,
-      "api": "http://tvbox.xn--4kq62z5rby2qupq9ub.top"
+      "type": "tvbox",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top"
     },
     {
+      "key": "chunyisao",
       "name": "🚀纯一骚零",
-      "type": 0,
-      "api": "https://100km.top/0"
+      "type": "tvbox",
+      "url": "https://100km.top/0"
     },
     {
+      "key": "okdiao",
       "name": "🚀ok吊炸天",
-      "type": 0,
-      "api": "http://ok321.top/tv"
+      "type": "tvbox",
+      "url": "http://ok321.top/tv"
     },
     {
+      "key": "fanying",
       "name": "🚀饭硬专线",
-      "type": 0,
-      "api": "http://www.饭太硬.net/tv"
+      "type": "tvbox",
+      "url": "http://www.饭太硬.net/tv"
     },
     {
+      "key": "qiaoji",
       "name": "🚀巧计",
-      "type": 0,
-      "api": "http://cdn.qiaoji8.com/tvbox.json"
+      "type": "tvbox",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"
     },
     {
+      "key": "feimao",
       "name": "🚀肥猫",
-      "type": 0,
-      "api": "http://肥猫.com"
+      "type": "tvbox",
+      "url": "http://肥猫.com"
     },
     {
+      "key": "cainisi",
       "name": "🚀菜妮丝线",
-      "type": 0,
-      "api": "https://tv.xn--yhqu5zs87a.top"
+      "type": "tvbox",
+      "url": "https://tv.xn--yhqu5zs87a.top"
     },
     {
+      "key": "nanfeng",
       "name": "🚀南风",
-      "type": 0,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+      "type": "tvbox",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
     {
+      "key": "xiaobai",
       "name": "🚀小白",
-      "type": 0,
-      "api": "http://bp.tvbox.cam/"
+      "type": "tvbox",
+      "url": "http://bp.tvbox.cam/"
     },
     {
+      "key": "ouge",
       "name": "🚀讴歌",
-      "type": 0,
-      "api": "http://tv.nxog.top/m/"
+      "type": "tvbox",
+      "url": "http://tv.nxog.top/m/"
     },
     {
+      "key": "niuer",
       "name": "🚀牛二",
-      "type": 0,
-      "api": "https://9280.kstore.space/wex.json"
+      "type": "tvbox",
+      "url": "https://9280.kstore.space/wex.json"
     },
     {
+      "key": "nanfeng2",
       "name": "🚀南风线路",
-      "type": 0,
-      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+      "type": "tvbox",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
     },
     {
+      "key": "xiaoma",
       "name": "🚀小马线路",
-      "type": 0,
-      "api": "https://szyyds.cn/tv/x.json"
+      "type": "tvbox",
+      "url": "https://szyyds.cn/tv/x.json"
     },
     {
+      "key": "junlao",
       "name": "🚀俊佬线路",
-      "type": 0,
-      "api": "http://home.jundie.top:81/top98.json"
+      "type": "tvbox",
+      "url": "http://home.jundie.top:81/top98.json"
     },
     {
+      "key": "fenxiangzhe",
       "name": "🚀分享者",
-      "type": 0,
-      "api": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
+      "type": "tvbox",
+      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
     },
     {
+      "key": "hengxing",
       "name": "🚀恒星线路",
-      "type": 0,
-      "api": "https://atomgit.com/hengxing/hx/raw/master/hxzx.txt"
+      "type": "tvbox",
+      "url": "https://atomgit.com/hengxing/hx/raw/master/hxzx.txt"
     }
   ]
 }
