@@ -1,0 +1,92 @@
+{
+  "urls": [
+    {
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
+      "name": "🚀游魂┃网盘线路"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/duo",
+      "name": "🚀游魂┃网盘备用"
+    },
+    {
+      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+      "name": "🚀游魂┃PG线路"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🚀游魂┃饭太硬线路"
+    },
+    {
+      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+      "name": "🚀游魂┃真心线路"
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "🚀游魂┃OK线路"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "🚀游魂┃香雅情线路"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🚀游魂┃王二小线路"
+    },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "🚀游魂┃老虎线路"
+    },
+    {
+      "url": "http://www.meowtv.vip/tvbox.json",
+      "name": "🚀游魂┃喵影视线路"
+    },
+    {
+      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+      "name": "🚀游魂┃短剧线路"
+    },
+    {
+      "url": "http://fmys.top/fmys.json",
+      "name": "🚀游魂┃驸马线路"
+    },
+    {
+      "url": "http://rihou.cc:555/nzk/nzk0722.json",
+      "name": "🚀游魂┃D佬线路"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "🚀游魂┃肥猫线路"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🚀游魂┃摸鱼线路"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "🚀游魂┃南风线路"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "🚀游魂┃巧技线路"
+    },
+    {
+      "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "name": "🚀游魂┃小米线路"
+    },
+    {
+      "url": "https://gitee.com/free-kingdom/dc/raw/main/T4.json",
+      "name": "🚀游魂┃T4线路"
+    },
+    {
+      "url": "https://毒盒.com/tv",
+      "name": "🚀游魂┃毒盒线路"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "🚀游魂┃高天流云"
+    },
+    {
+      "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+      "name": "🚀游魂┃青龙线路"
+    }
+  ]
+}
